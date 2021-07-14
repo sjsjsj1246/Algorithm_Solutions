@@ -6,6 +6,7 @@ date: 2021-06-10
 excerpt: "https://www.acmicpc.net/problem/5525"
 tag: ["Algorithms", "DP", "String"]
 comments: true
+rating: sirver2
 ---
 
 이 문제의 핵심은 중복되는 연산이 매우 많다는 것이다.
